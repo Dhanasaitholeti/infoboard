@@ -7,8 +7,9 @@ How to start the application?
   clone the git repository to your local machine
   
   
-  //Go into the directory
-  "cd infoboard"
+  //Go into the directory\n
+  "cd infoboard"\n
+ 
   //to install all the require packages and make sure you have already installed node in your machine 
   "npm install"
   //after the succesfull installtaion of the required packages run below command
